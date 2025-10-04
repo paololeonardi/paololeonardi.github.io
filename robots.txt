@@ -1,7 +1,0 @@
-# robots.txt for https://paololeonardi.com
-
-User-agent: *
-Disallow: /waterfallgrid/
-Allow: /
-
-Sitemap: https://paololeonardi.com/sitemap.xml
